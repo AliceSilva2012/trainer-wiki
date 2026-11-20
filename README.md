@@ -104,7 +104,6 @@ graph TD
     A --> D[style.css]
     A --> E[script.js]
     A --> F[trainer.json]
-    A --> G[README.md]
 
     B --> B1[cynthia.png]
     B --> B2[trainerdex.png]
