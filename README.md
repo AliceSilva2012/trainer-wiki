@@ -8,6 +8,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![PokéAPI](https://img.shields.io/badge/Pok%C3%A9API-EF5350?style=for-the-badge&logo=pokemon&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Acessar_TrainerDex-EF5350?style=for-the-badge&logo=pokemon&logoColor=white)](https://alicesilva2012.github.io/trainer-wiki/)
 
 > Uma enciclopédia interativa em formato de **Pokédex (TrainerDex)** construída com HTML5, CSS3 e JavaScript puro, que apresenta treinadores icônicos da franquia Pokémon, suas regiões, títulos e equipes completas.
 
@@ -68,6 +69,12 @@ Abaixo está o caminho dos dados entre o arquivo JSON e a interface da TrainerDe
   - Manipulação do DOM (`getElementById`, `createElement`, `appendChild`).
   - Eventos de mouse (`click`) e teclado (`ArrowLeft`, `ArrowRight`).
 - **PokéAPI & Pokémon Showdown:** Fontes dos sprites oficiais dos Pokémon e treinadores.
+
+---
+
+## 🌎 Teste meu projeto no seu navegador!
+
+- **Trainer-Wiki:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://alicesilva2012.github.io/trainer-wiki/)
 
 ---
 
