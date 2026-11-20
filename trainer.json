@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cynthia",
+    "nome": "Cynthia",
+    "regiao": "SINNOH",
+    "cargo": "CAMPEÃ",
+    "sprite": "./img/cynthia.png",
+    "time": [442, 407, 468, 448, 350, 445]
+  },
+  {
+    "id": "ash",
+    "nome": "Ash",
+    "regiao": "KANTO",
+    "cargo": "MONARCA",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/ash.png",
+    "time": [25, 149, 94, 448, 865, 882]
+  },
+  {
+    "id": "diantha",
+    "nome": "Diantha",
+    "regiao": "KALOS",
+    "cargo": "CAMPEÃ",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/diantha.png",
+    "time": [701, 697, 699, 711, 706, 282]
+  },
+  {
+    "id": "misty",
+    "nome": "Misty",
+    "regiao": "KANTO",
+    "cargo": "LÍDER",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/misty-gen1.png",
+    "time": [120, 121, 54, 130, 186, 222]
+  },
+  {
+    "id": "brock",
+    "nome": "Brock",
+    "regiao": "KANTO",
+    "cargo": "LÍDER",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/brock-gen1.png",
+    "time": [74, 95, 208, 37, 259, 453]
+  },
+  {
+    "id": "red",
+    "nome": "Red",
+    "regiao": "KANTO",
+    "cargo": "CAMPEÃO",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/red-gen1main.png",
+    "time": [25, 131, 143, 3, 6, 9]
+  },
+  {
+    "id": "blue",
+    "nome": "Blue",
+    "regiao": "KANTO",
+    "cargo": "RIVAL",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/blue-gen1.png",
+    "time": [18, 65, 112, 103, 59, 9]
+  },
+  {
+    "id": "steven",
+    "nome": "Steven",
+    "regiao": "HOENN",
+    "cargo": "CAMPEÃO",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/steven-gen3.png",
+    "time": [227, 344, 306, 346, 348, 376]
+  },
+  {
+  "id": "lance",
+  "nome": "Lance",
+  "regiao": "JOHTO",
+  "cargo": "CAMPEÃO",
+  "sprite": "https://play.pokemonshowdown.com/sprites/trainers/lance-gen2.png",
+  "time": [130, 373, 230, 142, 6, 149]
+  },
+  {
+    "id": "iris",
+    "nome": "Iris",
+    "regiao": "UNOVA",
+    "cargo": "CAMPEÃ",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/iris-gen5bw2.png",
+    "time": [635, 621, 567, 306, 131, 612]
+  },
+  {
+    "id": "leon",
+    "nome": "Leon",
+    "regiao": "GALAR",
+    "cargo": "CAMPEÃO",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/leon.png",
+    "time": [681, 887, 612, 815, 818, 6]
+  },
+  {
+    "id": "giovanni",
+    "nome": "Giovanni",
+    "regiao": "KANTO",
+    "cargo": "CHEFE",
+    "sprite": "https://play.pokemonshowdown.com/sprites/trainers/giovanni.png",
+    "time": [53, 51, 31, 34, 112, 150]
+  }
+]

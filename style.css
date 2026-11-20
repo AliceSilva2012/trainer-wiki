@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #333;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trainerdex-content img {
+    max-height: 90vh;
+    max-width: 95vw; /* Garante que nunca corte nas laterais no celular */
+    width: auto;
+    height: auto;
+    display: block;
+}
+
+.trainerdex {
+    position: relative;
+}
+
+.sprite-treinador {
+    position: absolute;
+    top: 46%;
+    left: 25.9%;
+    transform: translate(-50%, -50%);
+}
+
+.sprite-treinador img {
+    height: 20vh;
+    width: auto;
+    image-rendering: pixelated;
+}
+
+.name-treinador {
+    font-size: clamp(0.65rem, 2.2vw, 1.6rem); /* Escala junto com a tela */ 
+    position: absolute;
+    top: 87.5%;
+    left: 21.2%;
+    transform: translate(-50%, -50%);
+    width: 11.5%;
+    text-align: center;
+}
+
+.name-treinador h1 {
+    font-size: 1.6rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.team-treinador {
+    position: absolute;
+    top: 40.3%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    width: 28%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-items: center;
+}
+
+.team-treinador img {
+    width: 65%;
+    height: auto;
+    transform: scale(1.15);
+    image-rendering: pixelated;
+}
+
+.region-treinador,
+.class-treinador {
+    font-size: clamp(0.55rem, 1.8vw, 1.3rem); /* Escala junto com a tela */
+    position: absolute;
+    top: 87.7%;
+    transform: translate(-50%, -50%);
+    width: 12%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.region-treinador {
+    left: 67.6%;
+}
+
+.class-treinador {
+    left: 85%;
+}
+
+@keyframes pulseHint {
+    0%, 100% { color: rgba(255, 255, 255, 0.35); }
+    50% { color: rgba(255, 255, 255, 0.9); }
+}
+
+.btn-dpad {
+    position: absolute;
+    top: 80.5%;
+    transform: translate(-50%, -50%);
+    width: 3.6%;
+    height: 5.3%;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1.4vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: pulseHint 2.2s infinite;
+    transition: color 0.2s, transform 0.1s;
+}
+
+.btn-dpad:hover {
+    animation: none;
+    color: #ffffff;
+}
+
+.btn-dpad:active {
+    transform: translate(-50%, -50%) scale(0.88);
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 4px;
+}
+
+.btn-left {
+    left: 35%;
+}
+
+.btn-right {
+    left: 44%;
+}
