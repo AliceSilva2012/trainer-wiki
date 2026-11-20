@@ -1,6 +1,6 @@
 # Trainerdex 🔴
 
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/5ecd987f-b248-4685-af23-7c9524db37ac" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c1a455dd-b135-40ce-a8dc-ca2d7868512f" />
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
